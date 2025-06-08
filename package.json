@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "homepage": "https://github.com/AkiFinn/myportfolio.git",
+  "homepage": "https://AkiFinn.github.io/myportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
